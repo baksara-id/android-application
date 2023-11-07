@@ -22,8 +22,7 @@
 + Figma for Android UI Design
 
 # How to Install
-You can install this application by click this link and download it. After finish downloading you can install it on your Android device. In order to use our application you must create account first. This application only support android ver 5.0 or latest
-Link to download : https://s.id/baksara-apk-install
+You can install this application by downloading the **Baksara_early_access.apk**. After finish downloading you can install it on your Android device. In order to use our application you must create account first. This application only support android ver 5.0 or latest
 
 # Preview
 
@@ -31,7 +30,6 @@ Link to download : https://s.id/baksara-apk-install
 <img src="https://github.com/baksara-id/mobile-app/assets/86049554/0bc08460-5d96-468a-9ab3-9611644fa0d2" width="90px" height="160px">
 <img src="https://github.com/baksara-id/mobile-app/assets/86049554/05651a39-6cad-41ba-a0e7-64c445d75614" width="90px" height="160px">
 <img src="https://github.com/baksara-id/mobile-app/assets/86049554/4c984a09-880a-441a-a7a0-ac2559a1d6ae" width="90px" height="160px">
-<img src="https://github.com/baksara-id/mobile-app/assets/86049554/6bf22033-9f64-436d-9e5f-d664e61ac545" width="90px" height="160px">
 <img src="https://github.com/baksara-id/mobile-app/assets/86049554/75f7848e-b642-429d-a8be-0461c30b8dae" width="90px" height="160px">
 <img src="https://github.com/baksara-id/mobile-app/assets/86049554/86684445-a7d7-42a8-990b-df2abdc1eb65" width="90px" height="160px">
 <img src="https://github.com/baksara-id/mobile-app/assets/86049554/4c3a9882-7e52-4e3b-bbb6-3dd3a3595ce7" width="90px" height="160px">
