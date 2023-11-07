@@ -33,7 +33,6 @@ You can install this application by downloading the **Baksara_early_access.apk**
 <img src="https://github.com/baksara-id/mobile-app/assets/86049554/86684445-a7d7-42a8-990b-df2abdc1eb65" width="90px" height="160px">
 <img src="https://github.com/baksara-id/mobile-app/assets/86049554/4c3a9882-7e52-4e3b-bbb6-3dd3a3595ce7" width="90px" height="160px">
 <img src="https://github.com/baksara-id/mobile-app/assets/86049554/07e319ff-95ec-4e52-a25a-cb01a9954813" width="90px" height="160px">
-<img src="https://github.com/baksara-id/mobile-app/assets/86049554/efac9c32-04c8-406b-999d-38a587910832" width="90px" height="160px">
 <img src="https://github.com/baksara-id/mobile-app/assets/86049554/0ccba20c-fc0e-4dcd-a0f6-8237f1e2a1c2" width="90px" height="160px">
 <img src="https://github.com/baksara-id/mobile-app/assets/86049554/6c316f4c-c2d8-49ea-b4b7-7234e2ea7436" width="90px" height="160px">
 <img src="https://github.com/baksara-id/mobile-app/assets/86049554/908a6023-ce6a-455c-90df-76ce98c2b5eb" width="90px" height="160px">
